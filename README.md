@@ -1,4 +1,4 @@
-# N_Queen
+# N Queen Anaylser
 <p>
   The N-queens problem is a classic chess puzzle where N queens must be placed on an N×N chessboard so that no two queens threaten each other. This project implements a solution to the N-queens problem with a visual component, allowing users to see the solving process in real-time. 
   <br><br>
